@@ -1,3 +1,7 @@
+package Model;
+
+import org.springframework.data.annotation.Id;
+
 public class NamesFL {
 
     @Id
